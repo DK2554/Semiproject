@@ -6,7 +6,8 @@
 ## About The Project
 
 [Live Demo](http://rclass.iptime.org:9999/20AM_Semi/index.jsp):배포용 사이트로 연결  
-[ERD](https://www.erdcloud.com/d/h7QHAaDNFmTKoMrW7):ERD 클라우드로 이동
+[ERD](https://www.erdcloud.com/d/h7QHAaDNFmTKoMrW7):ERD 클라우드로 이동    
+[PDF](https://github.com/DK2554/Semiproject/blob/master/GP%20BOOKSTORE%20.pdf) : PDF파일입니다.
 
 ## Built With
 
